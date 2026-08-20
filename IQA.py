@@ -1,4 +1,4 @@
-from InventoryManagement import InventoryManagement
+from IM import InventoryManagement
 
 
 inventory = InventoryManagement()
